@@ -1,0 +1,2 @@
+Hierarchical Database Model. 
+It is a data model in which the data are stored into a tree-like structure. It does not use tables to store data. It is more suitable for managing simple data relationship.
